@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-tasks\v1-rev43-1.21.0\a74b7421da693bf15c08cf81c5888116706a19e1\google-api-services-tasks-v1-rev43-1.21.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a74b7421da693bf15c08cf81c5888116706a19e1">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-tasks-v1-rev43-1.21.0_1f5146b403c4a58fa76a00e5002827511b7e9966\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-android-1.20.0_7d2b047b474f1acfcce8156e770db57db63dbb0c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.7.7\cebbcd9084bdfc0564143fd7b5e23b2aac364181\aws-android-sdk-s3-2.7.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cebbcd9084bdfc0564143fd7b5e23b2aac364181">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-s3-2.7.7_04b2e27ce2a8f98dd394fe470ba76cec6d0420d3\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_ad296a8adbb73d01858972750a3fd74cb48e1c70\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_a03b27f302166e44fed4dab20978cc8f4591a125\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_5a9b0e6409d59df8350d5ab55d4416be5f17ed19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-gson\1.18.0-rc\82647ac9ebf591b4517f8863ed4c84367cde0728\google-http-client-gson-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82647ac9ebf591b4517f8863ed4c84367cde0728">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-gson-1.18.0-rc_1080ef8ebca571355668b90427dad20d193c8e08\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_ca3aaddb433c61319b463a8f6756ccc5f11d44c5\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_fc890176dc1072850c2813003b6afbc2672a8131\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.21.0\42631630fe1276d4d6d6397bb07d53a4e4fec278\google-http-client-1.21.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="42631630fe1276d4d6d6397bb07d53a4e4fec278">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.21.0_65fc941fc271d97d59c9f062e3a86edb9e01f053\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_4b22ab3b09d9502d19b74bfd65f534c4ce667cbc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-calendar\v3-rev125-1.20.0\fef496f895ad5be86416863153d4efbf7b601f8a\google-api-services-calendar-v3-rev125-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef496f895ad5be86416863153d4efbf7b601f8a">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-calendar-v3-rev125-1.20.0_b8681b0ceab5d35a61fd5e30bfcb621f6a1a85ae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-kms\2.7.7\d85c978151fc6fcb4c3782ffbfd4cf48032464c9\aws-android-sdk-kms-2.7.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d85c978151fc6fcb4c3782ffbfd4cf48032464c9">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-kms-2.7.7_c87016968dd20f47bc28cb19e0c27fae3e01e870\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_becd2e32b8ca5db925d90536c860e7464e28c9fb\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_d3209f0925121d222f1dd7e0db52ebcbdaa6455a\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_ddf88ff25c59e525a57cd66cfef7d99995f5f044\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_da88bade42bbb689e825421c4a9479ce6a25e3bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_42afe232ee361e7dd9dbbf6e7f3d8149e0bc3d51\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_f8f75d53a0303ca18c7d1ea4225fb1bf7591c335\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_72154e6b02ac3bdeb1b568a5bc65a6e80101f742\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.7.7\9eaa09d42467dc36505a17d7f0c91f590f7bf567\aws-android-sdk-cognito-2.7.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9eaa09d42467dc36505a17d7f0c91f590f7bf567">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognito-2.7.7_add71ee8879fcd9886e90dfd244feb1d6d332dfd\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_b69a35fcaf5fdff07e15a6b2c94c9784dd94ef05\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.klinkerapps\android-chips\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4f0820209fcf4b204b40a29c9074c55b33921ab9">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.klinkerapps-android-chips-1.0.1_1ab81632a8eeaf86f0eac0ef1789923d77f2b81c\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_d5277e09920b0e37ef698a3eb439ce7e9f9681c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-17.0_e1d7c3d536fcf85e1460a2f5ea8c94fc8b5b724e\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.4.0_597bd80b221ba9216cdb9e578695d07d01c6938a\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_c5c3d65211e9d2a42692debe7927ed0bf8d106fd\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_0a007dacc9948cf50d926d7c54ced618bcca5b3b\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_329de1783a5c9452af6acc6cd8332d5c8c37aa04\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-drive\v2-rev170-1.20.0\cac1b8bf96295246293ff03bd7c5daaa6f0adb47\google-api-services-drive-v2-rev170-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cac1b8bf96295246293ff03bd7c5daaa6f0adb47">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-drive-v2-rev170-1.20.0_4b03b13415262693857547658298e0e87f3e4821\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb-mapper\2.7.7\cf330caf6c079cf512c6b5bc91de4ea7415a2e08\aws-android-sdk-ddb-mapper-2.7.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cf330caf6c079cf512c6b5bc91de4ea7415a2e08">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-mapper-2.7.7_d94436d7256da2bb37d249e876147f9c4e87a607\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.4.0_9548e089539ab3483312bf37d5b0fe99f76710b7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.7.7\9c5437bc6823319c9c401499c42c4d7c1e0bfb0c\aws-android-sdk-ddb-2.7.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c5437bc6823319c9c401499c42c4d7c1e0bfb0c">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-2.7.7_45510ef7e4eb8cd0c0959ee6c0f0b77a19810d37\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_f73121fd993bb2398a246fceaf541a1da07bd915\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_ad7c9f2b45b99908c3be256c89abc3ee2cc810e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.7.7\4eb6cda796f8572c1fcadeabbd9aaeb6bbf60469\aws-android-sdk-core-2.7.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4eb6cda796f8572c1fcadeabbd9aaeb6bbf60469">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.7.7_e6ccfc6ccd76f035ba3d3c5eb49cccd13e4a89e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_1df0f84cce742fb62f04508b96f5114cc3b03bf8\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_16adbfb89a35e8f95a846eb957918a7394ffea7e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.21.0\16a6b3c680f3bf7b81bb42790ff5c1b72c5bbedc\google-api-client-1.21.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="16a6b3c680f3bf7b81bb42790ff5c1b72c5bbedc">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.21.0_1ac9cb5d08e64e530a13b740d7db21bc818a0821\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_42a1b2455b102618a8f2d8b69852e5000e72ab7c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_34a52665e9ed9a81e7732ffe5080ffb034c71eea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.21.0\8ce17bdd15fff0fd8cf359757f29e778fc7191ad\google-http-client-jackson2-1.21.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ce17bdd15fff0fd8cf359757f29e778fc7191ad">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.21.0_0fc9ac06e5831f4a5cacc059f90004a1e5703abb\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_aa98843b728be9735e6abe6839991d30352b22af\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.4.0_0a1c31fc274a506a8f61569fe32e801119ba1e62\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-8.4.0_a4bdc86b9fc0a1ae1223889e7372ac4d3a8b2fc8\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_27857073a084ccc3495e8b1a3dcff2d241763e3c\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_6ba5f934329c6be6eedd8ac4e6a209cfe7419988\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_c78815fa2b20f31dc37f007a912d7201ebeb5c31\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-android-1.20.0_342c8f6e6caa94127fe5977e36f59bba429b21a2\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-8.4.0_b2274606fe710977730d0998d61201c4a80f3bbf\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-8.4.0_b05bbb6adcdd8a1627b12536f720810b21ff395f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.21.0\61ec42bbfc51aafde5eb8b4923c602c5b5965bc2\google-oauth-client-1.21.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61ec42bbfc51aafde5eb8b4923c602c5b5965bc2">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.21.0_41587419cd567a73472136dddea6cc7c53ed90a3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-gson\1.18.0-rc\ac68a2a4383806a9f2ceb7f99764b5fd97ce6882\google-api-client-gson-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ac68a2a4383806a9f2ceb7f99764b5fd97ce6882">
+        <dex dex="E:\ANDROID PROJECTS\EventShare_AndroidApp-master\EventShare\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-gson-1.18.0-rc_c8b7a37ae598e6d1746af7b199e3fdd009215b37\classes.dex" />
+    </item>
+
+</items>

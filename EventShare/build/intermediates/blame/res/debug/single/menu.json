@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\event_list_menu.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\menu\\event_list_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\view_event_menu.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\menu\\view_event_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\view_event_menu.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\menu\\view_event_menu.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\create_event_menu.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\menu\\create_event_menu.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\event_list_menu.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\menu\\event_list_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\edit_event_menu.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\menu\\edit_event_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\edit_event_menu.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\menu\\edit_event_menu.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\view_event_menu.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\menu\\view_event_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\create_event_menu.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\menu\\create_event_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\event_list_menu.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\menu\\event_list_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\create_event_menu.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\menu\\create_event_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\menu\\edit_event_menu.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\menu\\edit_event_menu.xml"
+    }
+]

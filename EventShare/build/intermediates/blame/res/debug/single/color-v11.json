@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

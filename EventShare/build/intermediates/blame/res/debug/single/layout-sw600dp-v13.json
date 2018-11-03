@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    }
+]

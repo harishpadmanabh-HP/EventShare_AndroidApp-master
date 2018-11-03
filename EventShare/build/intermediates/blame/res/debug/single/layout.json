@@ -1,0 +1,830 @@
+[
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\edit_event.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\layout\\edit_event.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\upcoming_eventscopy.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\layout\\upcoming_eventscopy.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\chips_recipient_dropdown_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.1\\res\\layout\\chips_recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\upcoming_events.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\layout\\upcoming_events.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\date_time_picker.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\layout\\date_time_picker.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\custom_row1.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\layout\\custom_row1.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\chips_alternate_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.1\\res\\layout\\chips_alternate_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\view_event.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\layout\\view_event.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\more_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.1\\res\\layout\\more_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\custom_row.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\layout\\custom_row.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\date_time_picker.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\layout\\date_time_picker.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\chips_recipient_dropdown_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.1\\res\\layout\\chips_recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\upcoming_events.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\layout\\upcoming_events.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\create_event.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\layout\\create_event.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\custom_row1.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\layout\\custom_row1.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\row_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\layout\\row_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\chat_activity.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\layout\\chat_activity.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\chat_activity.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\layout\\chat_activity.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\custom_row1.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\layout\\custom_row1.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\more_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.1\\res\\layout\\more_item.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\upcoming_eventscopy.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\layout\\upcoming_eventscopy.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\date_time_picker.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\layout\\date_time_picker.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\more_item.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.1\\res\\layout\\more_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\chips_alternate_item.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.1\\res\\layout\\chips_alternate_item.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\upcoming_events.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\layout\\upcoming_events.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\edit_event.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\layout\\edit_event.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\chips_alternate_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.1\\res\\layout\\chips_alternate_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\create_event.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\layout\\create_event.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\custom_row.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\layout\\custom_row.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\copy_chip_dialog_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.1\\res\\layout\\copy_chip_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\copy_chip_dialog_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.1\\res\\layout\\copy_chip_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\row_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\layout\\row_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\chips_recipient_dropdown_item.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.1\\res\\layout\\chips_recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\upcoming_eventscopy.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\layout\\upcoming_eventscopy.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\view_event.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\src\\main\\res\\layout\\view_event.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\edit_event.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\layout\\edit_event.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\chat_activity.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\layout\\chat_activity.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\create_event.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\layout\\create_event.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\copy_chip_dialog_layout.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.1\\res\\layout\\copy_chip_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\row_layout.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\src\\main\\res\\layout\\row_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\custom_row.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\layout\\custom_row.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\view_event.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\src\\main\\res\\layout\\view_event.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShareV10March10PM\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Users\\apoorvkhare\\Documents\\android-samples-master\\EventShare\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\ANDROID PROJECTS\\EventShare_AndroidApp-master\\EventShare\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    }
+]
